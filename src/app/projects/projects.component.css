@@ -1,0 +1,4 @@
+/*------Modifica a separação entre os cards------*/
+.cartao{
+    justify-content: space-between;
+}

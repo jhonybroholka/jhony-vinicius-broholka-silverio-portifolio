@@ -1,0 +1,5 @@
+/*------Define o tamanho da seção que terá uma imagem*/
+.hero{
+    height: 100%;
+    width: 100%;
+}
